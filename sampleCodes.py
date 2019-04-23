@@ -1,4 +1,5 @@
 #Python Funadamentals
+#Uncomment particular block to run
 
 #Print
 '''
@@ -25,6 +26,9 @@ elif a==b:
 	print("b=a")
 else:
 	print("b>a")
+
+x="less" if a<2 else x="more"  #Ternary if-else
+print("x is {}".format(x))
 '''
 
 #Loops
