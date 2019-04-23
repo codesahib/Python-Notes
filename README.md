@@ -10,6 +10,6 @@ Notes related to basic and some advance python concepts
 6. Sets
 7. Disctionary
 
-### Advance
+### Advanced
 1. Dunder Methods
 2. Generators
